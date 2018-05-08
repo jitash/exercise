@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".android_advanced_light.chapter_1.recycler_view.MyRecyclerViewActivity" />
-        <activity android:name=".android_advanced_light.chapter_1.card_view.CardViewActivity"></activity>
+        <activity android:name=".android_advanced_light.chapter_1.card_view.CardViewActivity" />
+        <activity android:name=".android_advanced_light.chapter_1.notification.NofiticationActivity"></activity>
     </application>
 
 </manifest>
